@@ -1,6 +1,6 @@
 ### Howdy
 
 - 🔭 I’m currently doing hobbyist game dev
-- 🌱 I’m busy learning godot/gdscript
-- 💬 Ask me about SQL Server and other database technologies
-- ⚡ Fun fact: It cost more to mint a U.S. penny than any given penny is actually worth! 
+- 🌱 I’m busy learning gfx programming and godot
+- 💬 Ask me about C#/dotnet, SQL Server, BigQuery, and other database technologies
+- ⚡ Fun fact: Bamboo has an internal clock which remains in shoots grown from the original bamboo.
